@@ -1,0 +1,6 @@
+{
+  "heroslider": {
+    "component": "HeroSlider",
+    "composition": "children"
+  }
+}
